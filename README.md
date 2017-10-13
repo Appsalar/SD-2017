@@ -8,7 +8,7 @@
     [Нещо, което някога писах за потоци.](https://docs.google.com/document/d/1_k5wKIK-zDBxZEihBmOkHCMwW-75Yr6ivUylY3cuO1g/edit?usp=sharing)
   * текстови файлове
     * [работа с тях](https://github.com/Appsalar/OOP/tree/master/Week2)
-    * [задачи](https://github.com/Appsalar/OOP/tree/master/Week3)
+    * [задачи(има и подробни решения на някои от тях)](https://github.com/Appsalar/OOP/tree/master/Week3)
   * бинарни файлове
     * [работа с тях](https://github.com/Appsalar/OOP/blob/master/Week4/main.cpp)
 2. [Побитови операции](https://www.cprogramming.com/tutorial/bitwise_operators.html)
