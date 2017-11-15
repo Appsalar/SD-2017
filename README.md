@@ -13,3 +13,13 @@
     * [работа с тях](https://github.com/Appsalar/OOP/blob/master/Week4/main.cpp)
 2. [Побитови операции](https://www.cprogramming.com/tutorial/bitwise_operators.html)
 3. [Bitmask](http://codeforces.com/blog/entry/18169) 
+
+
+## Week2
+1. Дебъгване
+    * brakepoint
+    * watch 
+
+
+## Week3 
+1. [Binary search](https://github.com/Appsalar/SD-2017/blob/master/src/binary_search.cpp)
