@@ -7,6 +7,9 @@
 Заб. За предаване ще създам задание в мудъл.
 
 
+## Ресурси 
+[лекция на Семерджиев за exeption-и](https://mix.office.com/Account?ReturnUrl=%2Fwatch%2F158xla211ifvm)
+
 ## Week1 
 1. Работа потоци. 
     
