@@ -8,7 +8,7 @@
 
 
 ## Ресурси 
-[лекция на Семерджиев за exeption-и](https://mix.office.com/Account?ReturnUrl=%2Fwatch%2F158xla211ifvm)
+[лекция на Семерджиев за exception-и](https://mix.office.com/Account?ReturnUrl=%2Fwatch%2F158xla211ifvm)
 
 ## Week1 
 1. Работа потоци. 
