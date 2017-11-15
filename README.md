@@ -17,9 +17,20 @@
 
 ## Week2
 1. Дебъгване
-    * brakepoint
-    * watch 
+  * brakepoint
+  * watch 
 
 
 ## Week3 
 1. [Binary search](https://github.com/Appsalar/SD-2017/blob/master/src/binary_search.cpp)
+
+
+## Week4 
+1. Stack 
+  * [Реализация с масив](https://github.com/Appsalar/SD-2017/blob/master/src/Stack.h)
+  * [Реализация със списък](https://github.com/Appsalar/SD-2017/blob/master/src/Stack_list.h)
+
+
+## Week5 
+1. [Shunting-yard algorithm](https://en.wikipedia.org/wiki/Shunting-yard_algorithm)
+2. [Обратен полски запис (постфиксен)](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
